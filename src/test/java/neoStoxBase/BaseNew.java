@@ -24,8 +24,6 @@ public class BaseNew
 		driver.manage().window().maximize();
 		UtilityNew.wait(driver, 1000);
 		
-		
-		
 		Reporter.log("launching browser..",true);
 	}
 }
