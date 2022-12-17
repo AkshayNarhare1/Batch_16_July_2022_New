@@ -23,11 +23,17 @@ public class BaseNew
 		driver.get(neoStoxUtility1.UtilityNew.readDataFromPropertyFile("devurl"));
 		driver.manage().window().maximize();
 		UtilityNew.wait(driver, 1000);
+
+
 		
-		Reporter.log("launching browser..",true);
-		Reporter.log("launching browser..",true);
-		Reporter.log("launching browser..",true);
-		Reporter.log("launching browser..",true);
+		
+		
+		
+		
+		
+		
+		
+		
 		Reporter.log("launching browser..",true);
 	}
 }
