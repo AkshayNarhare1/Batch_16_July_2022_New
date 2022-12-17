@@ -27,7 +27,5 @@ public class BaseNew
 		Reporter.log("launching browser..",true);
 		Reporter.log("launching browser..",true);
 		Reporter.log("launching browser..",true);
-		Reporter.log("launching browser..",true);
-		Reporter.log("launching browser..",true);
 	}
 }
